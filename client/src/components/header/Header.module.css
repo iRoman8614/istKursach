@@ -1,0 +1,22 @@
+.root {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    vertical-align: center;
+}
+
+.buttonSet {
+    display: flex;
+    gap: 30px;
+}
+
+.container {
+    display: flex;
+    gap: 30px;
+}
+
+.searchBlock, .phoneBlock {
+    width: fit-content;
+    display: flex;
+    align-content: center;
+}

@@ -1,0 +1,17 @@
+.root {
+    color: #333;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.rootActive {
+    border-radius: 200px;
+    background: #F4683F;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: normal;
+    padding: 9px 30px;
+    width: fit-content;
+}
